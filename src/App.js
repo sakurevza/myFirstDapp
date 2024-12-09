@@ -121,7 +121,7 @@ function App() {
     <body className='body' style={{height:'100vh'}}>
     <div className="App bg-img">
       <div className='card'>
-        <h1 className='h1'>REN KE BANK</h1>
+        <h1 className='h1'>MY FIRST DAPP</h1>
         <button className='button' onClick={connectWallet}>connect wallet</button>
       <h3 className='h3'>账户地址-Address:{address}</h3>
 
